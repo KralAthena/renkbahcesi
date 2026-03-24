@@ -1,0 +1,15 @@
+*.gem
+*.rbc
+*.log
+*.swp
+
+Gemfile.lock
+.ruby-version
+
+save_data.json
+*.orig
+
+.idea/
+.vscode/
+.DS_Store
+
