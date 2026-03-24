@@ -45,7 +45,7 @@
 - **Tamamen Türkçe** — arayüz, görev metinleri, her şey
 - **Çocuk dostu tasarım** — büyük butonlar, yumuşak renkler, sezgisel akış
 - **Animasyonlu arka plan** — canlı gökyüzü, yüzen bulutlar, sallanan çimenler
-- **Canlı ikon sistemi** — her rengin bir karakteri var (🍎 Elma, 💧 Damla, 🍌 Muz…)
+- **Prosedürel ikon sistemi** — her rengin kendine özel kodu çizilen sembolü var (Elma, Damla, Muz, Yaprak… Ruby2D primitifleriyle, sıfır harici görsel)
 - **Sıfır çökme garantisi** — eksik ses/görsel dosyasında oyun sorunsuz devam eder
 
 ---
@@ -71,7 +71,7 @@
 ## ✨ Özellikler
 
 ```
-🎨  10 canlı renk + prosedürel ikon sistemi (her rengin sembolü var)
+🎨  10 aktif renk — her biri kodla çizilen özgün ikon (Circle/Triangle/Line, harici görsel yok)
 🌍  3 görsel tema: Bahçe (gündüz) · Alacakaranlık · Yüksek Kontrast
 ⭐  Çocuk dostu yıldız sistemi (1–3 yıldız, asla 0)
 🔊  Ses açma/kapama — oyun içinden değiştirilebilir
